@@ -6,7 +6,7 @@
 
 Click the USE THIS TEMPLATE button to make a copy of the starter repo.
 
-Verify in GitHub Desktop that GitHub duplicated the starter repo for you.
+Verify in GitHub Desktop that GitHub duplicated the starter repo for you on your workstation.
 
 ## Directions
 
