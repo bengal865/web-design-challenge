@@ -27,7 +27,7 @@ Defining your container DIV:
 - 4 rows with heights of: 1**fr** 1**fr** 1**fr** auto
 - grid template areas named:
   - header
-  - content-lgo
+  - content-lg
   - content-sm-a
   - content-sm-b
   - footer
