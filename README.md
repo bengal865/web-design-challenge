@@ -1,2 +1,2 @@
-# web-design-challenge
-Starter files for the web design challenge that uses CSS Grid.
+# Web Design Challenge
+Please view the instructions in the **instructions.md** markdown file.
