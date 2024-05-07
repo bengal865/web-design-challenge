@@ -20,7 +20,7 @@ In VS Code, build a **responsive** web page that:
 
 ## Desktop View
 
-Define a container <div> as follows:
+Defining your container DIV:
 
 - height: 100**vh**
 - 3 columns with a width of 1 **fr** each
