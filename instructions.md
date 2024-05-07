@@ -14,7 +14,7 @@ In VS Code, build a **responsive** web page that:
 
 - has a header with a responsive background image
 - has a footer containing copyright info
-- three content areas (see example (https://docs.google.com/presentation/d/1TDYDbRxldPtBEo6Se2vBrAuCrbnmurkEbBTHGhxNAP8/edit?usp=sharing))
+- three content areas [see example] (https://docs.google.com/presentation/d/1TDYDbRxldPtBEo6Se2vBrAuCrbnmurkEbBTHGhxNAP8/edit?usp=sharing)
 - has responsive images in the content areas
 - uses a media query to switch between desktop and mobile view
 
