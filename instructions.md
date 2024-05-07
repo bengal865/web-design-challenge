@@ -46,15 +46,22 @@ Set up your media query as follows:
 - number of grid rows: 5 (with widths of 125**px** auto auto auto 100**px**)
 - grid template areas:
   - same names as for desktop view but stacked in a single column
-  - header
-  - content-lg
-  - content-sm-a
-  - content-sm-b
-  - footer
+    - header
+    - content-lg
+    - content-sm-a
+    - content-sm-b
+    - footer
  
 ## General Reminders
 
 - Add a CSS reset rule to the top of your style sheet
+```css
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+```
 - Write a CSS rule to style the page body
   - Specify a font family
   - Set page font to 20 pixels
